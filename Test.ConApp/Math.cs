@@ -9,5 +9,6 @@ namespace Test.ConApp
     internal class Math
     {
         public void Add(){}
+        public void Subtract() { }
     }
 }
