@@ -10,6 +10,5 @@ namespace Test.ConApp
     {
         public void Add(){}
         public void Subtract() { }
-        public void Multiply(){}
     }
 }
